@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  namehelm:
+  - apiVersion: v2
+    appVersion: latest
+    created: "2025-10-07T17:37:08.686936984Z"
+    description: A Helm chart for Kubernetes
+    digest: e2fce9fe1c381baca07a5d50b836862e29b6df415f07bc7c3bb3750f8335beb6
+    name: namehelm
+    type: application
+    urls:
+    - namehelm-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-10-07T17:37:08.686206382Z"
